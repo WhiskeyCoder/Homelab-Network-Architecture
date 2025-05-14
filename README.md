@@ -32,9 +32,9 @@ The system runs on a hybrid stack of Dell microservers, Raspberry Pi cluster, JB
 
 ## 🗺️ Network Architecture
 
-<img src="https://github.com/WhiskeyCoder/Homelab-Network-Architecture/blob/main/Untitled-2025-05-05-2114.png" alt="Homelab Network Map" width="100%">
+<img src="https://github.com/WhiskeyCoder/Homelab-Network-Architecture/blob/main/images/logical_network.png" alt="Homelab Network Map" width="100%">
 
-> 📌 For full resolution: [Open Full Network Map](https://github.com/WhiskeyCoder/Homelab-Network-Architecture/blob/main/Untitled-2025-05-05-2114.png)
+> 📌 For full resolution: [Open Full Network Map](https://github.com/WhiskeyCoder/Homelab-Network-Architecture/blob/main/images/logical_network.png)
 
 ---
 
@@ -184,10 +184,29 @@ The system runs on a hybrid stack of Dell microservers, Raspberry Pi cluster, JB
 
 ## 📸 Photos
 
-<img src="https://github.com/WhiskeyCoder/Homelab-Network-Architecture/blob/main/2025-05-07%2023_47_40-Window.png" alt="Rack Setup" width="30%">
+<img src="https://github.com/WhiskeyCoder/Homelab-Network-Architecture/blob/main/images/physical_rack.png" alt="Rack Setup" width="30%">
 
 > See `/images` for high-res physical rack shots and labeled diagrams.
 
+---
+## 🖨️ 3D-Printed Homelab Rack (DIY)
+Inspired by a YouTube video showcasing a compact 10U Raspberry Pi network rack, I set out to design my own, without the $200 price tag. Using an open-source leg design as a base, I made several critical upgrades: redesigned handles and legs for durability, plus custom side struts for better structural integrity at scale. I’ve uploaded the core STL files on MakerWorld to help others get started. The rack is modular, stackable, and ideal for Raspberry Pi clusters or homelab expansions. You'll need M5 bolts (at least 51mm long); I used a $10 assorted hardware pack from Amazon.
+
+### ✅ Project Highlights:
+- Cost to print: $18 total (incl. 0.5kg of PLA+ and hardware)
+- Design tools used: Tinkercad
+- Open source: Mod-friendly STL files available on MakerWorld
+- Future plans: I’ll be uploading accessory modules to extend the rack's capabilities
+
+<img src="https://github.com/WhiskeyCoder/Homelab-Network-Architecture/blob/main/images/stls.png" alt="Rack Setup" width="30%">
+
+This custom build allowed me to maintain the flexibility and aesthetic of a pro-grade rack, without breaking the bank. 
+
+### Can be downloaded from:
+- The Network Rack Itself: [https://makerworld.com/en/models/604691-10-inch-network-rack-basics](https://makerworld.com/en/models/604691-10-inch-network-rack-basics)
+- Custom Designed JBOD: [https://makerworld.com/en/models/669552-10-inch-jbod](https://makerworld.com/en/models/669552-10-inch-jbod)
+- Intel Nuc 10 Inch rack Holder: [https://makerworld.com/en/models/708882-intel-nuc-10-inch-rack](https://makerworld.com/en/models/708882-intel-nuc-10-inch-rack)
+- Hot Swapable Raspberry Pi Rack: [https://makerworld.com/en/models/604725-raspberry-pi-10-inch-rack-hot-swappable](https://makerworld.com/en/models/604725-raspberry-pi-10-inch-rack-hot-swappable)
 ---
 
 ## 🧙‍♂️ About Me
